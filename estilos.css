@@ -2,14 +2,3 @@
     font-family: Comic Sans MS, Arial, Verdana;
     text-align: center;
 }
-
-li {
-    display: block;
-    float: left;
-    width: 300px;
-    /* adjust */
-    height: 150px;
-    /* adjust */
-    padding: 5px;
-    /*adjust*/
-}
